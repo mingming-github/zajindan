@@ -15,8 +15,8 @@ define(function (){
 			str += '<div class="bg-mask"></div>';
 			str +='<div class="jiangPinResult">';
 			str +='<img class="gongxi" src="images/gx.png" alt="恭喜你" title="恭喜">';
-			str +='<p>获得圣诞苹果一个！！</p>';
-			str +='<img class="imgJiangPin" src="images/apple.png" alt="奖品" title="奖品">';
+			str +='<p>获得-明铭的一个吻！！</p>';
+			str +='<img class="imgJiangPin" src="images/wen.jpg" alt="奖品" title="奖品">';
 			str +='<a href="#"><input class="btn_Get" value="领取奖品" type="button"></a>';
 			str +='<img class="colseJiangPin" src="images/close.png" alt="关闭" title="关闭">';
 			str +='</div>';
@@ -24,7 +24,7 @@ define(function (){
 			str += '<div class="bg-mask"></div>';
 			str +='<div class="jiangPinResult">';
 			str +='<img class="gongxi" src="images/gx.png" alt="恭喜你" title="恭喜">';
-			str +='<p>获得-影子先生-一位，快去把他领回家吧！！</p>';
+			str +='<p>获得-明铭男朋友-一位，快去把他领回家吧！！</p>';
 			str +='<img class="imgJiangPin" src="images/yingzixs.png" alt="奖品" title="奖品">';
 			str +='<a href="#"><input class="btn_Get" value="领取奖品" type="button"></a>';
 			str +='<img class="colseJiangPin" src="images/close.png" alt="关闭" title="关闭">';
@@ -46,7 +46,7 @@ define(function (){
 		str += '<p class="inputInfoTitle">输入用户信息</p>';
 		str += '<div class="userNameDiv">';
 		str += '<label for="nameInput">用户名:</label>';
-		str += '<input class="nameInput" name="nameInput" id="nameInput" type="text" value="最爱的小太阳" placeholder="请输入用户名">';
+		str += '<input class="nameInput" name="nameInput" id="nameInput" type="text" value="最爱的颖宝宝" placeholder="请输入用户名">';
 		str += '</div>';
 		str += '<div class="phoneDiv">';
 		str += '<label for="phoneInput">手机号:</label>';
