@@ -1,4 +1,4 @@
-define(function (){
+﻿define(function (){
 	var clickDan = function(DataType){
 		//判断是否未登录
 		var isTrue = $('.tishiChouJiang span').hasClass('loginSpan');
@@ -24,7 +24,7 @@ define(function (){
 			str += '<div class="bg-mask"></div>';
 			str +='<div class="jiangPinResult">';
 			str +='<img class="gongxi" src="images/gx.png" alt="恭喜你" title="恭喜">';
-			str +='<p>获得-明铭男朋友-一位，快去把他领回家吧！！</p>';
+			str +='<p>获得-明铭-一位，快去把他领回家吧！！</p>';
 			str +='<img class="imgJiangPin" src="images/yingzixs.png" alt="奖品" title="奖品">';
 			str +='<a href="#"><input class="btn_Get" value="领取奖品" type="button"></a>';
 			str +='<img class="colseJiangPin" src="images/close.png" alt="关闭" title="关闭">';
